@@ -1,0 +1,94 @@
+C:\Users\admin\Documents\Visual Studio 2015\Projects\CellPhone\CellPhone\obj\Debug\CellPhone.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\Visual Studio 2015\Projects\CellPhone\CellPhone\bin\roslyn\csc.exe
+C:\Users\admin\Documents\Visual Studio 2015\Projects\CellPhone\CellPhone\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\CellPhone\CellPhone\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\CellPhone\CellPhone\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\CellPhone\CellPhone\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\CellPhone\CellPhone\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\admin\Documents\Visual Studio 2015\Projects\CellPhone\CellPhone\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\admin\Documents\Visual Studio 2015\Projects\CellPhone\CellPhone\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\CellPhone\CellPhone\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\CellPhone\CellPhone\bin\roslyn\vbc.exe
+C:\Users\admin\Documents\Visual Studio 2015\Projects\CellPhone\CellPhone\bin\roslyn\VBCSCompiler.exe
+C:\Users\admin\Documents\Visual Studio 2015\Projects\CellPhone\CellPhone\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\admin\Documents\Visual Studio 2015\Projects\CellPhone\CellPhone\bin\CellPhone.dll.config
+C:\Users\admin\Documents\Visual Studio 2015\Projects\CellPhone\CellPhone\bin\CellPhone.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\CellPhone\CellPhone\bin\CellPhone.pdb
+C:\Users\admin\Documents\Visual Studio 2015\Projects\CellPhone\CellPhone\bin\Antlr3.Runtime.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\CellPhone\CellPhone\bin\EntityFramework.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\CellPhone\CellPhone\bin\EntityFramework.SqlServer.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\CellPhone\CellPhone\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\CellPhone\CellPhone\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\CellPhone\CellPhone\bin\Newtonsoft.Json.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\CellPhone\CellPhone\bin\System.Web.Helpers.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\CellPhone\CellPhone\bin\System.Web.Mvc.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\CellPhone\CellPhone\bin\System.Web.Optimization.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\CellPhone\CellPhone\bin\System.Web.Razor.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\CellPhone\CellPhone\bin\System.Web.WebPages.Deployment.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\CellPhone\CellPhone\bin\System.Web.WebPages.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\CellPhone\CellPhone\bin\System.Web.WebPages.Razor.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\CellPhone\CellPhone\bin\WebGrease.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\CellPhone\CellPhone\bin\EntityFramework.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\CellPhone\CellPhone\bin\EntityFramework.SqlServer.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\CellPhone\CellPhone\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\CellPhone\CellPhone\bin\System.Web.Helpers.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\CellPhone\CellPhone\bin\System.Web.Mvc.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\CellPhone\CellPhone\bin\System.Web.Optimization.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\CellPhone\CellPhone\bin\System.Web.Razor.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\CellPhone\CellPhone\bin\System.Web.WebPages.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\CellPhone\CellPhone\bin\System.Web.WebPages.Deployment.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\CellPhone\CellPhone\bin\System.Web.WebPages.Razor.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\CellPhone\CellPhone\bin\Antlr3.Runtime.pdb
+C:\Users\admin\Documents\Visual Studio 2015\Projects\CellPhone\CellPhone\bin\Newtonsoft.Json.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\CellPhone\CellPhone\obj\Debug\CellPhone.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\CellPhone\CellPhone\obj\Debug\CellPhone.pdb
+C:\Users\admin\Documents\Visual Studio 2015\Projects\CellPhone\CellPhone\obj\Debug\CellPhone.Migrations.CellPhoneContext.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\CellPhone\CellPhone\obj\Debug\CellPhone.csproj.GenerateResource.Cache
+C:\Users\admin\Documents\Visual Studio 2015\Projects\CellPhone\CellPhone\obj\Debug\CellPhone.Migrations.CellPhoneContext1.resources
+C:\Users\Admin\Desktop\swoow\CellPhone\CellPhone\bin\roslyn\csc.exe
+C:\Users\Admin\Desktop\swoow\CellPhone\CellPhone\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Admin\Desktop\swoow\CellPhone\CellPhone\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Desktop\swoow\CellPhone\CellPhone\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Desktop\swoow\CellPhone\CellPhone\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin\Desktop\swoow\CellPhone\CellPhone\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Admin\Desktop\swoow\CellPhone\CellPhone\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Admin\Desktop\swoow\CellPhone\CellPhone\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Admin\Desktop\swoow\CellPhone\CellPhone\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Admin\Desktop\swoow\CellPhone\CellPhone\bin\roslyn\vbc.exe
+C:\Users\Admin\Desktop\swoow\CellPhone\CellPhone\bin\roslyn\VBCSCompiler.exe
+C:\Users\Admin\Desktop\swoow\CellPhone\CellPhone\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Admin\Desktop\swoow\CellPhone\CellPhone\bin\CellPhone.dll.config
+C:\Users\Admin\Desktop\swoow\CellPhone\CellPhone\bin\CellPhone.dll
+C:\Users\Admin\Desktop\swoow\CellPhone\CellPhone\bin\CellPhone.pdb
+C:\Users\Admin\Desktop\swoow\CellPhone\CellPhone\bin\Antlr3.Runtime.dll
+C:\Users\Admin\Desktop\swoow\CellPhone\CellPhone\bin\EntityFramework.dll
+C:\Users\Admin\Desktop\swoow\CellPhone\CellPhone\bin\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\swoow\CellPhone\CellPhone\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\Desktop\swoow\CellPhone\CellPhone\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\Desktop\swoow\CellPhone\CellPhone\bin\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\swoow\CellPhone\CellPhone\bin\System.Web.Helpers.dll
+C:\Users\Admin\Desktop\swoow\CellPhone\CellPhone\bin\System.Web.Mvc.dll
+C:\Users\Admin\Desktop\swoow\CellPhone\CellPhone\bin\System.Web.Optimization.dll
+C:\Users\Admin\Desktop\swoow\CellPhone\CellPhone\bin\System.Web.Razor.dll
+C:\Users\Admin\Desktop\swoow\CellPhone\CellPhone\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Admin\Desktop\swoow\CellPhone\CellPhone\bin\System.Web.WebPages.dll
+C:\Users\Admin\Desktop\swoow\CellPhone\CellPhone\bin\System.Web.WebPages.Razor.dll
+C:\Users\Admin\Desktop\swoow\CellPhone\CellPhone\bin\WebGrease.dll
+C:\Users\Admin\Desktop\swoow\CellPhone\CellPhone\bin\EntityFramework.xml
+C:\Users\Admin\Desktop\swoow\CellPhone\CellPhone\bin\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\swoow\CellPhone\CellPhone\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\Desktop\swoow\CellPhone\CellPhone\bin\System.Web.Helpers.xml
+C:\Users\Admin\Desktop\swoow\CellPhone\CellPhone\bin\System.Web.Mvc.xml
+C:\Users\Admin\Desktop\swoow\CellPhone\CellPhone\bin\System.Web.Optimization.xml
+C:\Users\Admin\Desktop\swoow\CellPhone\CellPhone\bin\System.Web.Razor.xml
+C:\Users\Admin\Desktop\swoow\CellPhone\CellPhone\bin\System.Web.WebPages.xml
+C:\Users\Admin\Desktop\swoow\CellPhone\CellPhone\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Admin\Desktop\swoow\CellPhone\CellPhone\bin\System.Web.WebPages.Razor.xml
+C:\Users\Admin\Desktop\swoow\CellPhone\CellPhone\bin\Antlr3.Runtime.pdb
+C:\Users\Admin\Desktop\swoow\CellPhone\CellPhone\bin\Newtonsoft.Json.xml
+C:\Users\Admin\Desktop\swoow\CellPhone\CellPhone\obj\Debug\CellPhone.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\swoow\CellPhone\CellPhone\obj\Debug\CellPhone.Migrations.CellPhoneContext.resources
+C:\Users\Admin\Desktop\swoow\CellPhone\CellPhone\obj\Debug\CellPhone.Migrations.CellPhoneContext1.resources
+C:\Users\Admin\Desktop\swoow\CellPhone\CellPhone\obj\Debug\CellPhone.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\swoow\CellPhone\CellPhone\obj\Debug\CellPhone.dll
+C:\Users\Admin\Desktop\swoow\CellPhone\CellPhone\obj\Debug\CellPhone.pdb
